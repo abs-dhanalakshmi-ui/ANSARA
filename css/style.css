@@ -377,7 +377,7 @@ font-size: 13px;
 }
 
 .get-started-btn:hover {
-  background: #111111;
+  background: #030302;
   color: #fff;
 }
 
@@ -516,7 +516,7 @@ sub {
     font-size: 20px;
     border-radius: 8px;
     height: 50px;
-	background-color: #b3121a;
+	background-color: #b3131a;
     color: #fff;
 }
 .btnn1{
