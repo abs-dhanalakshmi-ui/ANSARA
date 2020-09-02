@@ -192,8 +192,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .slp{
 font-size: 13px;
-   
-	text-align: center;
+text-align: center;
+margin-right: 22px;
 }
 .mar{
 	margin-right:20px;
@@ -214,7 +214,7 @@ font-size: 13px;
   font-family: "Poppins", sans-serif;
 }
 .foot-head{
-	font-size: 20px;
+	font-size: 21px;
     text-align: center;
     font-weight: 600;
     padding-bottom: 20px;
@@ -500,9 +500,9 @@ sub {
 
 }
 .header1{
-	font-size: 24px;
+	font-size: 23px;
     font-family: "Monteserrat Light",sans-serif;
-    font-weight: bold;
+    font-weight: 600;
     
 
 }
@@ -547,8 +547,8 @@ sub {
     padding-top: 20px;
 }
 .course-h3{
-	font-size: 20px;
-    font-weight: 400;
+	font-size: 19px;
+    font-weight: 600;
 	padding-bottom: 25px;
 }
 .course-ul{
